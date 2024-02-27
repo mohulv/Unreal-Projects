@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/MP2Level/Content/LevelDesigned.umap",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LevelDesigned.umap",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_AI/Pursuer_AIController.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP_Pursuer.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP_Boss.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP_PursuerSpawner.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/UI_Widgets/YouWonWidget.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP_Bomb.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_Character/BP_Mortar.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_AI/AI_State.uasset",
+				"C:/Users/Mohul Varma/OneDrive/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/Enemy_AI/AI_State_Pursuer.uasset"
+			]
+		}
+	]
+}
